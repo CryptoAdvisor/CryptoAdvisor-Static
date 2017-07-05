@@ -1,17 +1,17 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
+title: CryptoAdvisor
+subtitle: A cryptocurrency investment hedge fund, focusing on ICO's, leveraged trades, and automated exchange arbitrage
+email: cryptoadvisor0@gmail.com
+description: We are a cryptocurrency investment fund
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address: 4806 Abbott Ave.
+city: Dallas
+state: TX
+zip_code: 75205
 country: United States of America
-phone: (716) 555-5555
+phone: (214) 770-9226
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
