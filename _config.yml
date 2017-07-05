@@ -3,7 +3,7 @@ title: CryptoAdvisor
 subtitle: A cryptocurrency investment hedge fund, focusing on ICO's, leveraged trades, and automated exchange arbitrage
 email: cryptoadvisor0@gmail.com
 description: We are a cryptocurrency investment fund
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
 street_address: 4806 Abbott Ave.
